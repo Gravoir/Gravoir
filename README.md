@@ -59,3 +59,4 @@ I build things on-chain and off-chain. Currently focused on trading systems, blo
 <!-- update 26 -->
 <!-- update 27 -->
 <!-- update 28 -->
+<!-- update 29 -->
