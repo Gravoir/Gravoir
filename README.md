@@ -31,3 +31,4 @@ I build things on-chain and off-chain. Currently focused on trading systems, blo
 ---
 
 *"Build fast, ship often, stay anon."*
+<!-- update 1 -->
