@@ -1,0 +1,33 @@
+
+### Hey, I'm Gravoir 👋
+
+**Web3 Builder & Software Developer** from Indonesia 🇮🇩
+
+I build things on-chain and off-chain. Currently focused on trading systems, blockchain infrastructure, and open-source tooling.
+
+---
+
+#### 🔧 What I Work With
+
+- **Languages:** Python, JavaScript/TypeScript, Solidity, Rust
+- **Web3:** EVM chains, Smart Contracts, DeFi Protocols, On-chain Analytics
+- **Infra:** Linux, Docker, Node.js, CI/CD
+- **Trading:** Algorithmic trading, Market making, Signal processing
+
+---
+
+#### 📊 Currently Working On
+
+- Automated trading systems & signal pipelines
+- Blockchain node infrastructure & tooling
+- Open-source Web3 developer utilities
+
+---
+
+#### 🌐 Connect
+
+- [Twitter/X](https://x.com/gravoir)
+
+---
+
+*"Build fast, ship often, stay anon."*
